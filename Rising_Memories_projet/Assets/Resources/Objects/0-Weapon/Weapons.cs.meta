@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45ab6b4ecd596cb4bbe0e9bc4816a3bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - img: {instanceID: 0}
+  - objInfoDisplay: {instanceID: 0}
+  - atk1: {instanceID: 0}
+  - atk2: {instanceID: 0}
+  - SoundAttack: {fileID: 8300000, guid: 93560af694e3c9b45bec8d21bea52a67, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
